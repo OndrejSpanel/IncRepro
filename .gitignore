@@ -1,0 +1,9 @@
+.idea
+/.bsp
+*.iml
+**/target
+*.sc
+
+.bloop/
+/.metals/
+metals.sbt
