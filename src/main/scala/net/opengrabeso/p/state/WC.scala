@@ -5,7 +5,7 @@ import net.opengrabeso.json.Schema
 
 object WC {
 
-  /** edit this comment HERE- to trigger compilation */
+  /** edit this comment HERE-- to trigger compilation */
   sealed trait SimClass {
     def name: String = this.toString
   }
